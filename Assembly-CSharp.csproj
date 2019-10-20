@@ -73,31 +73,31 @@
      <Compile Include="Assets\Scripts\SelfRotate.cs" />
      <Compile Include="Assets\Scripts\UserData.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>E:/Unity Project/Mooc Hero - FPS/Mooc Hero - FPS/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>E:/Unity Project/Mooc Hero - FPS/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/2019.2.7f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
