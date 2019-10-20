@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 159
+  controlID: 141
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,7 +217,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 109
+  controlID: 97
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -447,11 +447,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.11068262, y: 0.08397387, z: -0.009385728, w: -0.99025816}
     speed: 2
-    m_Value: {x: -0.11060903, y: 0.091398306, z: -0.010215569, w: -0.9895998}
+    m_Value: {x: -0.11068263, y: 0.08397388, z: -0.009385728, w: -0.9902582}
   m_Size:
     m_Target: 728.66113
     speed: 2
-    m_Value: 762.996
+    m_Value: 728.66113
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9290ffff
-      m_LastClickedID: -28526
-      m_ExpandedIDs: 2491ffff5095ffff7ccaffff5eddffffe2ddffff6cfbffff
+      m_SelectedIDs: 70d4ffff
+      m_LastClickedID: -11152
+      m_ExpandedIDs: 22d4ffff68d7ffff0ee2ffffc6e7ffff64eeffffbeeeffff6cfbffff543200008c320000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -571,19 +571,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: E:\Unity Project\Mooc Hero - FPS\Mooc Hero - FPS
+  m_LastProjectPath: E:\Unity Project\Mooc Hero - FPS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7e2f0000
-    m_LastClickedID: 12158
+    m_SelectedIDs: e82c0000
+    m_LastClickedID: 11496
     m_ExpandedIDs: 00000000e82c00000c30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -612,7 +612,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e82c0000f22e00000c30000090300000
+    m_ExpandedIDs: 00000000e82c00000c300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -639,7 +639,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
