@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 9836
+  controlID: 793
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 9842
+  controlID: 771
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,7 +217,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 9864
+  controlID: 732
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,9 +414,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 192.96164, y: -9.335867, z: 185.06497}
+    m_Target: {x: 206.3988, y: 0.6732049, z: 192.1523}
     speed: 2
-    m_Value: {x: 192.96164, y: -9.335867, z: 185.06497}
+    m_Value: {x: 206.3988, y: 0.6732049, z: 192.1523}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -449,9 +449,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.115393214, y: 0.8837617, z: -0.34055352, w: -0.2994544}
   m_Size:
-    m_Target: 62.437843
+    m_Target: 101.2448
     speed: 2
-    m_Value: 62.437843
+    m_Value: 101.2448
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 22310000
       m_LastClickedID: 0
-      m_ExpandedIDs: f80fffff9cf1ffffa2f1ffffaef1ffffb2f1ffff6cfbffffce320000e8320000ec320000
+      m_ExpandedIDs: 6cfbffff9c320000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -571,20 +571,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Models/PickUp_Potion
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Models/PickUp_Potion
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Unity Project\Mooc Hero - FPS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 51}
-    m_SelectedIDs: c42e0000
-    m_LastClickedID: 11972
-    m_ExpandedIDs: 00000000e82c0000f22e0000142f00000c30000000ca9a3b
+    scrollPos: {x: 0, y: 99}
+    m_SelectedIDs: 102f0000
+    m_LastClickedID: 12048
+    m_ExpandedIDs: 00000000ec2c0000f62e0000182f00001030000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -612,7 +612,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e82c0000f22e0000142f00000c30000000ca9a3b
+    m_ExpandedIDs: 00000000ec2c0000f62e0000182f00001030000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,7 +705,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 534
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
