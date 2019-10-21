@@ -1546,8 +1546,9 @@ MonoBehaviour:
   health: 2
   value: 1
   enemyHurtAudio: {fileID: 8300000, guid: 69ce57ffc1ee1614aab19a7c13213903, type: 3}
-  hurtEffect: {fileID: 0}
-  hurtEffectTransform: {fileID: 0}
+  hurtEffect: {fileID: 5165189570571553008, guid: 73f957ebefafe6741bd627364694c402,
+    type: 3}
+  hurtEffectTransform: {fileID: 418380}
 --- !u!114 &11425576
 MonoBehaviour:
   m_ObjectHideFlags: 0
